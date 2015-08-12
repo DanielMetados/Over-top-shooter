@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PhUN STUFF ;D\NetworkInstatiate.cs">
+    <Files>
+      <File FileName="Assets\Character\CharacterMovement.cs" Line="100" Column="4" />
+      <File FileName="Assets\PhUN STUFF ;D\NetworkInstatiate.cs" Line="23" Column="2" />
+      <File FileName="Assets\NetworkTransform.cs" Line="17" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
